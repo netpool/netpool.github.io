@@ -55,6 +55,8 @@ cv_dl:
 box_shadow:
   enable: false
 
+theme: Academia
+
 # CDN
 # 根据需要自行添加js/css
 # 自定义css可以直接写在user.styl中

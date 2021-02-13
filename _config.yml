@@ -1,3 +1,4 @@
+theme: Academia
 favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
@@ -54,8 +55,6 @@ cv_dl:
 # display box-shadow on page or not
 box_shadow:
   enable: false
-
-theme: Academia
 
 # CDN
 # 根据需要自行添加js/css
